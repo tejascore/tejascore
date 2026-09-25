@@ -4,7 +4,7 @@
 
 ### `code • create • break • repeat`
 
-CSE student · developer · music nerd
+student · developer · music nerd
 
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/tejas.wavv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/tejas-gupta-113008341)
